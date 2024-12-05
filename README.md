@@ -1,10 +1,10 @@
-# JPEG webcam timelapse recorder
+# JPEG Timelapse Generator
 
 ## Instructions
 
 ```
-git clone https://github.com/RadioactivePotato/JPEG-webcam-timelapse.git
-cd JPEG-webcam-timelapse
+git clone https://github.com/RadioactivePotato/Python-JPEG-Timelapse-Generator
+cd Python-JPEG-Timelapse-Generator
 pip install requests imageio
 python main.py
 ```
@@ -23,4 +23,4 @@ After that, it will delete the images used for the gif
 
 ### Need help?
 
-Create an issue [here](https://github.com/RadioactivePotato/JPEG-webcam-timelapse/issues)
+Create an issue [here](https://github.com/RadioactivePotato/Python-JPEG-Timelapse-Generator/issues)
